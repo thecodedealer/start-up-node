@@ -1,7 +1,7 @@
 {
   "name": "mgmplatform-node",
   "version": "1.0.0",
-  "description": "Web Platfor for MGM SD Company",
+  "description": "NodeJS App Boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   "engines": {
     "node": ">=4.3.2"
   },
-  "author": "Code Dealer",
+  "author": "www.codedealer.xyz",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
